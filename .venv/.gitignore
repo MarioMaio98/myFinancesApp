@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+
+# PyCharm project files
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Environment variable files
+.env
+.env.*
+
+# CSV or data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Python egg and distribution files
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Gspread credentials file
+service_account.json
+
+# Misc
+*.bak
+*.tmp
